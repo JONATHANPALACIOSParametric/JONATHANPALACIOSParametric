@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JONATHANPALACIOSParametric
-- 👀 I’m interested in parametric design, workflows with FEM programs,
+- 👀 I’m interested in parametric design, workflows with FEM programs, automatization of repetitive task, Im a civil engineer who loves code related with engineering
 - 🌱 I’m currently learning Grasshopper, Karamba 3d,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
